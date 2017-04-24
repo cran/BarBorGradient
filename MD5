@@ -1,0 +1,11 @@
+76ea839c34e63e56544a3caad08f1af3 *DESCRIPTION
+7b32a45466808c8ab9517bda9dc639ab *NAMESPACE
+5daab77cb11d1e84f15b76ce44c8e043 *R/BarBor.R
+8cda20587fbea36175a88b6e3c9dc91e *R/Functions.R
+451ba5aa2e196ddee9fb05b969bb2f83 *R/Gradmod.R
+b49d9a833fdba7b5cd69456fbc227d8e *R/Powell.R
+364f808ff36d9d63e8f337f43fd37be0 *R/SetVariables.R
+8cb3bea2bedf32d08318c40400bf58c8 *man/BarBorManual.Rd
+dcc0693bd516187082b458f6807f7743 *man/BarBorNoPrint.Rd
+551b458ed16da421129ec1e7610c312c *man/GradMod.Rd
+2fbaae74c09579a64b6eaf2e1c7fb0f3 *man/Powell.Rd
